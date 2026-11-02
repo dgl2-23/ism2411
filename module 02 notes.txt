@@ -1,0 +1,5 @@
+Exercise 6:
+The error was a NameError on line 1. This happened because I typed "primt" instead of "print". Python did not recognize "primt" as a valid command.
+
+Exercise 7:
+The first attempt failed because hello.py was not in the ism2411 folder. The file was inside the module02 folder. The second attempt succeeded because module02/hello.py gave Python the correct path to the file.
